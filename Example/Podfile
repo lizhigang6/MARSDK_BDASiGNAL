@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MARSDK_BDASiGNAL_Tests' do
+  pod 'MARSDK_BDASiGNAL', :path => '../'
+  
+  
+end
